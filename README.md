@@ -64,4 +64,4 @@ P3: 3
 
 O relatório detalhado contendo as respostas teóricas, a explicação da implementação e o estudo de caso completo pode ser encontrado no arquivo PDF anexado à entrega oficial na plataforma de ensino.
 
-Autor: [Seu Nome]
+Autor: Felipe Freires Da Costa
